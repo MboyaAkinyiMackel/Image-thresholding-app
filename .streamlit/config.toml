@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#9b59b6"  # soft purple
+backgroundColor = "#0e0e10"  # deep black
+secondaryBackgroundColor = "#1f1f2e"  # muted silver-gray
+textColor = "#e5e5f0"  # pale silver-white
+font = "serif"
